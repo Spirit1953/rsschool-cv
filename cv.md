@@ -1,5 +1,6 @@
 Marina Nemtsova
 
+
 Contacts
 Location: Warsaw, Poland
 Phone: +48692191373
@@ -16,12 +17,14 @@ I am purposeful and I love to learn, so I hope that I will succeed.
 
 
 Skills
+
 HTML
 CSS
 Git/GitHub (in process)
 
 
 Education
+
 University: 
 Belarusian State Economic University. Faculty of banking, specialty accounting, analysis, audit.
 Courses: 
@@ -30,6 +33,7 @@ ru.code-basics.com
 
 
 Languages
+
 English - A2 
 French - diploma Delf B2 в 2016
 Polish - A1
